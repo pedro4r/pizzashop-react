@@ -1,10 +1,10 @@
 import { createBrowserRouter } from 'react-router-dom'
 
+import { AppLayout } from '@/pages/_layout/app'
+import { AuthLayout } from '@/pages/_layout/auth'
 import { Dashboard } from '@/pages/app/dashboard'
 import { SignIn } from '@/pages/auth/sign-in'
 import { SignUp } from '@/pages/auth/sign-up'
-import { AppLayout } from '@/pages/layout/app'
-import { AuthLayout } from '@/pages/layout/auth'
 
 export const router = createBrowserRouter([
   {
