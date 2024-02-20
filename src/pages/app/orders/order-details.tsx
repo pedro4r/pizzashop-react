@@ -38,9 +38,7 @@ export function OrderDetails() {
             </TableRow>
             <TableRow>
               <TableCell className="text-muted-foreground">Cliente</TableCell>
-              <TableCell className="flex justify-end">
-                Diego Schell Fernandes
-              </TableCell>
+              <TableCell className="flex justify-end">Pedro Requiao</TableCell>
             </TableRow>
             <TableRow>
               <TableCell className="text-muted-foreground">Telefone</TableCell>
